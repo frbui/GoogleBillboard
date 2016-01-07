@@ -8,7 +8,7 @@ public void setup()
 }  
 public void draw()  
 {   
-	for(int z = 0; //not needed for this assignment
+	 //not needed for this assignment
 }  
 public boolean isPrime(double dNum)  
 {   
